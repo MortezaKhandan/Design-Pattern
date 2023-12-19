@@ -1,5 +1,4 @@
 #include <iostream>
-#include <map>
 #include <memory>
 
 class Device {
